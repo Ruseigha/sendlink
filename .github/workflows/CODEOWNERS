@@ -1,0 +1,15 @@
+# Global owners
+* @Ruseigha
+
+# Backend code
+/internal/ @Ruseigha
+/cmd/ @Ruseigha
+
+# Infrastructure
+/Dockerfile @Ruseigha
+/docker-compose.yml @Ruseigha
+/.github/workflows/ @Ruseigha
+
+# Documentation
+/docs/ @Ruseigha
+*.md @Ruseigha
